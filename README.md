@@ -54,3 +54,13 @@ This program provides a structured way to manage a Model UN committee, with the 
 ---
 
 This program aims to help chairs manage UNA-USA style committees efficiently, track delegate performance, and facilitate the flow of debate and documentation, with a focus on robust data management and extensible architecture for programmers.
+
+
+## TODOs
+
+1. Finish GUI setup with file IO
+2. Refine Resolution Logic
+3. Implement Speakers List Logic
+4. Make GUI for Speech / POI / amendments
+5. Create Resolution Format Checker
+6. Update README.md to include more accurate details for the project
