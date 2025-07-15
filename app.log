@@ -1,0 +1,7 @@
+16:45:46 [INFO   ] Main.main(): Program Started 
+16:45:50 [INFO   ] Main.main(): Loaded committee from file. 
+16:45:50 [INFO   ] GuiManager.start(): Setting up window with min width 600 and min height 450 
+16:45:59 [INFO   ] GuiManager.showInitPage(): Showing Init Page 
+16:45:59 [INFO   ] GuiManager.showInitPage(): Setting up UI 
+16:46:00 [INFO   ] GuiManager.lambda$start$0(): Committee data saved to file. 
+16:46:00 [INFO   ] Main.main(): Program Finished 
